@@ -1,4 +1,4 @@
-# 🚀 C# Jedi | Crafting .NET galaxies 🌌, debugging black holes 🕳️, and refactoring code faster than light ⚡  
+# 🖥️ Blazor Wizard | Summoning .NET realms 🌌, banishing bugs 🐛 to the void, brewing coffee ☕ as dark as my deployment nightmares, and debugging like a necromancer resurrecting the same error for hours 💀  
 _"May the code be with you!"_ 👾✨
 
 ---
