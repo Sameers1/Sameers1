@@ -1,18 +1,65 @@
-# 🖥️ Blazor Wizard | Summoning .NET realms 🌌, banishing bugs 🐛 to the void, brewing coffee ☕ as dark as my deployment nightmares, and debugging like a necromancer resurrecting the same error for hours 💀  
-_"May the bugs fear you and the code obey you."_ 
+# Welcome to My GitHub Profile 👾
+
+### 🚀 Technologies I Love:
+- **Python** | ![Python](https://img.shields.io/static/v1?label=&message=Python&color=4B8BBE&logo=python&logoColor=white)
+- **C#** | ![C#](https://img.shields.io/static/v1?label=&message=C%23&color=239120&logo=csharp&logoColor=white)
+- **Blazor** | ![Blazor](https://img.shields.io/static/v1?label=&message=Blazor&color=5C2D91&logo=blazor&logoColor=white)
+- **SQL** | ![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=00758F&logo=sqlite&logoColor=white)
 
 ---
 
-## ⚡ Technologies
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### 💻 My GitHub Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&bg_color=222222)
 
 ---
 
-## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
+### 🏆 My GitHub Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sam&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+### 🐍 Contribution Snake:
+
+![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+
+---
+
+### 📰 Latest Blog Post:
+
+- [**Building a Code Bounty System from Scratch**](https://github.com/Sam/blog/blob/main/creating-a-code-bounty-hunting-system.md) - An in-depth guide on creating a code bounty hunting platform where users can post coding challenges and earn rewards.
+
+---
+
+### 🎮 I'm Currently Working On:
+
+- [DivineCodex Project](https://github.com/Sam/DivineCodex) - A Stack Overflow-inspired platform for sharing coding challenges.
+- [Employee Management System](https://github.com/Sam/EmployeeManagement) - A professional employee management tool.
+
+---
+
+### 📈 My Wakatime Weekly Stats:
+
+![Wakatime](https://github-readme-wakatime.vercel.app/api/wakatime?username=Sam)
+
+---
+
+### 🖤 "Coding isn't just about writing code. It's about crafting a legacy that will outlast the compilers." - Sam
+
+---
+
+### ⚡ Fun Fact:
+
+I once tried to fix a bug and accidentally created a new one. #TheLifeOfACoder
+
+---
+
+### 📫 How to reach me:
+
+- [LinkedIn](https://linkedin.com/in/sam)
+- [Twitter](https://twitter.com/sam)
+
+---
+
+Thank you for checking out my profile! Let’s make some cool stuff together. 💻✨
