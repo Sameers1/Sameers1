@@ -19,5 +19,3 @@ _"May the bugs fear you and the code obey you."_
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
 
 ---
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sameers1)
