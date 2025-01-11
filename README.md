@@ -16,8 +16,3 @@ _"May the bugs fear you and the code obey you."_
 | **Others**            | SQL, Git Extensions, GitHub Projects, Scrum/Stories, Services, API Development, Branches & Pull Requests, CI/CD                                                              |
 
 ---
-
-## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
-
----
