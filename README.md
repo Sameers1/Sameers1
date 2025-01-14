@@ -15,4 +15,4 @@ _"May the bugs fear you and the code obey you."_
 | **Methodologies & Patterns** | ![DDD](https://img.shields.io/badge/DDD-FF8C00?style=flat&logo=dotnet&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1C89D6?style=flat&logo=dotnet&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-00457C?style=flat&logo=dotnet&logoColor=white) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-6C7A89?style=flat&logo=dotnet&logoColor=white) |
 | **Others**            | SQL, Git Extensions, GitHub Projects, Scrum/Stories, Services, API Development, Branches & Pull Requests, CI/CD                                                              |
 
----
+
