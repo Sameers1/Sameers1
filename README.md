@@ -1,7 +1,7 @@
 # Turning bugs into features, deployments into smooth spells, and coffee into code. ☕💻
 Master-tier coder by day, Master-tier Summoner by night.
 # 10X
-_"May the bugs fear you and the code obey you."_
+_"May the bugs fear you and the code obey you."_ 
 
 ---
 
